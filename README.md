@@ -27,6 +27,12 @@ In this project, I applied the LightGBM algorithm to build a model for predictin
 
 ## Certificates
 
+- [Coursera: Advanced Learning Algorithms by Andrew Ng, 2025](https://github.com/SemdiankinaHalyna/Portfolio/blob/main/Certificates/Coursera%20EBH8IK07XM9L.pdf)
+- [Stepik, "Python Generation": course for advanced, 2025](https://github.com/SemdiankinaHalyna/Portfolio/blob/main/Certificates/stepik-certificate-68343-e11c401.pdf)
+- [Stepik, Interactive SQL Simulator, 2024](https://github.com/SemdiankinaHalyna/Portfolio/blob/main/Certificates/stepik-certificate-63054-99b8196%20(1).pdf)
+- [Coursera: Supervised Machine Learning: Regression and  Classification by Andrew Ng, 2024](https://github.com/SemdiankinaHalyna/Portfolio/blob/main/Certificates/Coursera%20NKJK394AGBL7.pdf)
+- [Stepik, Basics of statistics, 2023](https://github.com/SemdiankinaHalyna/Portfolio/blob/main/Certificates/stepik-certificate-76-d1bf8bd%20(1).pdf)
+- [Stepik, "Python Generation": course for beginners, 2023](https://github.com/SemdiankinaHalyna/Portfolio/blob/main/Certificates/stepik-certificate-58852-5ff1e6c%20(1).pdf)
 
 
 
