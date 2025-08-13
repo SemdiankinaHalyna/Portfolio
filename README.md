@@ -1,2 +1,2 @@
-# Portfolio
-Data Science Portfolio - Halyna Semdiankina
+
+# Data Science Portfolio - Halyna Semdiankina
