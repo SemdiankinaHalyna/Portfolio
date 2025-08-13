@@ -21,9 +21,9 @@ In this project, I applied the LightGBM algorithm to build a model for predictin
 
 ## Core Competencies
 
-- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, C++
-- **Tools**: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
+- **Methodologies**: Machine Learning, Deep Learning (Basic), Natural Language Processing, Statistics, Hypothesis Testing
+- **Languages**: Python (Pandas, NumPy, Scikit-Learn, SciPy, Keras, Matplotlib, Plotly), SQL
+- **Tools**: PostgreSQL, TensorFlow, Git, MS Excel, Google Sheets, XGBoost, LightGBM, Jupyter Notebook, Selenium, BeautifulSoup, BERT (Hugging Face)
 
 ## Certificates
 
