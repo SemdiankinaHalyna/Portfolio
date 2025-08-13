@@ -13,3 +13,5 @@ This Portfolio is a compilation of my the Data Science and Data Analysis project
   
   In this project, I analyzed university reviews collected from open sources. I visualized the distribution of ratings to examine tendencies toward positive or negative feedback, performed sentiment analysis using    a BERT model and compared results with star ratings. I ranked universities by sentiment scores, created a heatmap showing sentiment changes over years, and outlined the next step — building a multi-class       classification model to automatically identify key issues in negative reviews.
  
+## Micro Projects
+<img align="left" width="250" height="150" src="https://github.com/SemdiankinaHalyna/Portfolio/blob/main/Images/Hause_Prices.png"> **House Prices Prediction using LightGBM**
