@@ -15,3 +15,20 @@ This Portfolio is a compilation of my the Data Science and Data Analysis project
  
 ## Micro Projects
 <img align="left" width="250" height="150" src="https://github.com/SemdiankinaHalyna/Portfolio/blob/main/Images/Hause_Prices.png"> **House Prices Prediction using LightGBM**
+
+In this project, I applied the LightGBM algorithm to build a model for predicting real estate prices. The workflow included comprehensive data preprocessing with feature engineering, exploratory data analysis (EDA), model selection, training, performance evaluation using appropriate metrics, and model tuning to improve accuracy.
+
+
+## Core Competencies
+
+- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, C++
+- **Tools**: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
+
+## Certificates
+
+
+
+
+
+
