@@ -9,7 +9,7 @@ This Portfolio is a compilation of my the Data Science and Data Analysis project
 - Graduated with honors from Taras Shevchenko National University of Kyiv, Bachelor’s degree in Finance and Credit, 2012
 
 ## Projects
-  <img align="left" width="250" height="150" src="https://github.com/SemdiankinaHalyna/Portfolio/blob/main/Images/word_cloud.png"> **[University-review-analysis](https://github.com/SemdiankinaHalyna/University-review-analysis)**
+  <img align="left" width="250" height="150" src="https://github.com/SemdiankinaHalyna/Portfolio/blob/main/Images/word_cloud.png"> **[Automated Issue Detection in Feedback Systems](https://github.com/SemdiankinaHalyna/University-review-analysis)**
   
   In this project, I analyzed university reviews collected from open sources. I visualized the distribution of ratings to examine tendencies toward positive or negative feedback, performed sentiment analysis     using    a BERT model and compared results with star ratings. I ranked universities by sentiment scores, created a heatmap showing sentiment changes over years, and outlined the next step — building a multi-class classification model to automatically identify key issues in negative reviews.
  
