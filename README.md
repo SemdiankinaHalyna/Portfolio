@@ -15,12 +15,6 @@ This project focuses on analyzing large-scale user feedback to extract actionabl
 
 Although demonstrated using higher education reviews, the proposed approach can be applied to feedback systems in various industries, including finance, e-commerce and customer support.
  
-## Micro Projects
-<img align="left" width="250" height="150" src="https://github.com/SemdiankinaHalyna/Portfolio/blob/main/Images/Hause_Prices.png"> **House Prices Prediction using LightGBM**
-
-In this project, I applied the LightGBM algorithm to build a model for predicting real estate prices. The workflow included comprehensive data preprocessing with feature engineering, exploratory data analysis (EDA), model selection, training, performance evaluation using appropriate metrics, and model tuning to improve accuracy.
-
-
 ## Core Competencies
 
 - **Methodologies**: Machine Learning, Deep Learning (Basic), Natural Language Processing, Statistics, Hypothesis Testing
