@@ -11,7 +11,9 @@ This Portfolio is a compilation of my the Data Science and Data Analysis project
 ## Projects
   <img align="left" width="250" height="150" src="https://github.com/SemdiankinaHalyna/Portfolio/blob/main/Images/word_cloud.png"> **[Automated Issue Detection in Feedback Systems](https://github.com/SemdiankinaHalyna/University-review-analysis)**
   
-  In this project, I analyzed university reviews collected from open sources. I visualized the distribution of ratings to examine tendencies toward positive or negative feedback, performed sentiment analysis     using    a BERT model and compared results with star ratings. I ranked universities by sentiment scores, created a heatmap showing sentiment changes over years, and outlined the next step — building a multi-class classification model to automatically identify key issues in negative reviews.
+This project focuses on analyzing large-scale user feedback to extract actionable insights from unstructured text data. It addresses the challenge of transforming raw reviews into structured information that can support decision-making through sentiment analysis and issue detection.
+
+Although demonstrated using higher education reviews, the proposed approach can be applied to feedback systems in various industries, including finance, e-commerce and customer support.
  
 ## Micro Projects
 <img align="left" width="250" height="150" src="https://github.com/SemdiankinaHalyna/Portfolio/blob/main/Images/Hause_Prices.png"> **House Prices Prediction using LightGBM**
